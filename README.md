@@ -1,5 +1,5 @@
 # GT_CS_Repo
-The repository contains all the class activities, homeworks, and projects completed during my time at The Georgia Institute of Technology Cyber and Network Security Bootcamp
+###The repository contains all the class activities, homeworks, and projects completed during my time at The Georgia Institute of Technology Cyber and Network Security Bootcamp
 _____________________________________________________________________________________________________
 
 ## Automated ELK Stack Deployment
